@@ -15,7 +15,7 @@
   <hr>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,spring,mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,js,mysql,postgres,mongodb)](https://skillicons.dev)
   <hr>
 <div>
   <a href="https://www.linkedin.com/in/JuliaStaub/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
