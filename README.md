@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, World! 👋
 
-<!--
-**JuliaStaub/JuliaStaub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/JuliaStaub/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JuliaStaub&theme=transparent" />
+  </a>
+  <a href="https://github.com/Alexandre-Ventura/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuliaStaub&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  </a>
+  <hr>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,java,spring,mysql,postgres,mongodb)](https://skillicons.dev)
